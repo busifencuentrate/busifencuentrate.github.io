@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Automatización de la Carga de Imagen</title>
+</head>
+<body>
+    <h1>Automatización de la carga de imagen</h1>
+    <img src="https://raw.githubusercontent.com/busifencuentrate/busifencuentrate.github.io/main/logistica.jpg" alt="Automatización de la carga de imagen" style="max-width: 100%; height: auto;">
+    <p>Imagen de ejemplo cargada automáticamente desde el repositorio.</p>
+</body>
+</html>
